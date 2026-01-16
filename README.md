@@ -141,8 +141,8 @@ We tag runs so you can filter cleanly in LangSmith:
   - **Hallucination** (as a groundedness proxy, evaluated against the provided context)
 
 ### Screenshots / artifacts (submission)
-- **LangSmith dashboard / evaluations screenshots**: `<PASTE_GOOGLE_DRIVE_LINK_HERE>`
-- **PDF used for RAG demo (Drive link)**: `https://drive.google.com/drive/folders/1rXn-2WWhepidgzL5obk3MSh68QOkbRNR?usp=sharing`
+- **LangSmith dashboard / evaluations screenshots**: `https://drive.google.com/drive/folders/1lEbvU6XmXEoigCyDic8UDzIz0aMWkrwj?usp=drive_link`
+- **PDF used for RAG demo (Drive link)**: `https://drive.google.com/drive/folders/1oUxIh526HIc5QeRojmS9cPRKTKZASTYC?usp=drive_link`
 
 ---
 
