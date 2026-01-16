@@ -1,0 +1,13 @@
+langchain-qdrant
+langchain 
+langchain-openai
+qdrant-client
+python-dotenv
+pyowm
+langchain-community
+langchain-text-splitters
+pypdf
+langgraph
+streamlit
+langsmith
+pytest
