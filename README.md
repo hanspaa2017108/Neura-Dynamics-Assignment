@@ -142,7 +142,7 @@ We tag runs so you can filter cleanly in LangSmith:
 
 ### Screenshots / artifacts (submission)
 - **LangSmith dashboard / evaluations screenshots**: `<PASTE_GOOGLE_DRIVE_LINK_HERE>`
-- **PDF used for RAG demo (Drive link)**: `<PASTE_GOOGLE_DRIVE_LINK_HERE>`
+- **PDF used for RAG demo (Drive link)**: `https://drive.google.com/drive/folders/1rXn-2WWhepidgzL5obk3MSh68QOkbRNR?usp=sharing`
 
 ---
 
