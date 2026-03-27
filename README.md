@@ -1,3 +1,5 @@
+Submission for AI Engineer Role at Neura Dynamics, was not selected but worth doing the project
+
 ## Neura Dynamics – AI Engineer Assignment
 
 This project is a **LangGraph agentic pipeline** with two capabilities:
